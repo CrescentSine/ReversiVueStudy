@@ -1,4 +1,5 @@
 # reversi
+一个使用Vue渲染的黑白棋游戏，学习Vue框架的产物
 
 ## Project setup
 ```
